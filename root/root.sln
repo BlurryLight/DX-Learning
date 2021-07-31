@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{03F20C5E-DCBF-4122-8622-4B7B6EAC52B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWindow", "HelloWindow\HelloWindow.csproj", "{9ABAD441-F0EC-4722-AE33-1C16CE9E1FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9ABAD441-F0EC-4722-AE33-1C16CE9E1FAA} = {03F20C5E-DCBF-4122-8622-4B7B6EAC52B0}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABAD441-F0EC-4722-AE33-1C16CE9E1FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABAD441-F0EC-4722-AE33-1C16CE9E1FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABAD441-F0EC-4722-AE33-1C16CE9E1FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABAD441-F0EC-4722-AE33-1C16CE9E1FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

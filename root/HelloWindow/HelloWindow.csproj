@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net472</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="SharpDX" Version="4.2.0" />
+      <PackageReference Include="SharpDX.Desktop" Version="4.2.0" />
+      <PackageReference Include="SharpDX.Direct3D12" Version="4.2.0" />
+      <PackageReference Include="SharpDX.DXGI" Version="4.2.0" />
+      <PackageReference Include="SharpDX.Mathematics" Version="4.2.0" />
+    </ItemGroup>
+
+</Project>
